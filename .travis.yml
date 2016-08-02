@@ -2,6 +2,7 @@ script:
   - echo "Hello"
   - ls
   - cd ..
+  - ls
 
 
 
