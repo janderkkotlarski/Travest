@@ -9,6 +9,7 @@ before_install:
 install: sudo apt-get install -qq g++-5
 
 script: 
+  - cd Travest
   - qmake
   - make
   - ./Travest
