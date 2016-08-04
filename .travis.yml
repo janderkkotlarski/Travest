@@ -1,12 +1,7 @@
 script: 
-  - echo "Hello"
-  - ls
-  - cd ..
-  - ls
-  - cd ..
-  - ls
-  - cd ..
-  - ls
+  - qmake
+  - make
+  - ./Travest
 
 
 
